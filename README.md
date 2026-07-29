@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reshamwala Vidhi Rinkukumar</h1>
+<h1 align="center">Hi , I'm Reshamwala Vidhi Rinkukumar</h1>
 <h3 align="center">Software Developer | AI & ML Enthusiast</h3>
 
 - 🔭 I’m currently working on [Building AI-powered web applications using FastAPI, LangGraph, ASP.NET Core MVC, and MongoDB. Currently developing CivicCopilot, an intelligent civic complaint management platform powered by Agentic AI.](https://github.com/vidhu31/CivicCopilot)
