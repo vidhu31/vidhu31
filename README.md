@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ASP.NET Core MVC, C#, Python, FastAPI, Entity Framework Core, SQL Server, MongoDB, Machine Learning, and Web Development.**
 
-- 📫 How to reach me **vidhureshamwala31@gmail.com**
+- 📫 How to reach me **reshamwalavidhi31@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/u/1/d/1s9T8C-T5wK_QNh658zKmTN6HizvxOnQb/view?usp=drive_open](https://drive.google.com/file/d/1M2hscgsQHzzhZuYr_on1b-z6TJ90241K/view)
 
