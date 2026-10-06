@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **reshamwalavidhi31@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/u/1/d/1s9T8C-T5wK_QNh658zKmTN6HizvxOnQb/view?usp=drive_open](https://drive.google.com/file/d/1M2hscgsQHzzhZuYr_on1b-z6TJ90241K/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Wkil6aglBVp6aB0torwhCkfGbT8NUtzH/view?usp=drive_link](https://drive.google.com/file/d/1Wkil6aglBVp6aB0torwhCkfGbT8NUtzH/view?usp=drive_link)
 
 - ⚡ Fun fact **I enjoy solving real-world problems by combining AI with modern web technologies.**
 
